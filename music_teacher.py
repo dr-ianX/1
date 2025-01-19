@@ -34,3 +34,13 @@ if __name__ == "__main__":
             print("Goodbye! Keep practicing your scales!")
             break
         teacher.play_scale(choice)
+
+
+## Contributing
+Contributions are welcome! Feel free to submit pull requests with new features, such as:
+- Adding more scales.
+- Supporting minor scales.
+- Including playback of scales with sound.
+
+## License
+MIT
